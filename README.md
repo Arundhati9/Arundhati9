@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arundhati9
-- 👀 I’m interested in Web develpoment 
-- 🌱 I’m currently learning nodeJS
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning data structure
 
 
 <!---
