@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Archisman
+- 👋 Hi, I’m @Arundhati
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data structure
 
