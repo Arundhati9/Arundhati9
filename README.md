@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Arundhati
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data structure
+I am a Data Engineer experienced in building scalable ETL pipelines, optimizing SQL by 50%, and automating end-to-end data workflows across BigQuery, SQL Server, Airflow, DBT, and Databricks. I work with high-volume datasets (100M+ records) and build reliable, production-ready data solutions.
+
+I’ve contributed to enterprise AI projects like the DGT Pricing Tool and developed full-stack apps using Django and React, giving me strong system-level thinking. Skilled in Databricks, Salesforce, Python, Spark, Kafka, Snowflake, and cloud data engineering.
+
+Driven, fast-learning, and impact-oriented—I love solving complex data problems and turning them into efficient, automated solutions.
 
 
 <!---
